@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Computational Creativity
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Computational Creativity at RPI
 ---
 
 # Computational Creativity
