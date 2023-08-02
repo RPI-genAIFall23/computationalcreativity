@@ -30,6 +30,13 @@ permalink: pretty
 aux_links:
   Rich Radke:
     - 'https://sites.ecse.rpi.edu/~rjradke/'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/563405'
+  Piazza:
+    - 'https://piazza.com/rpi/fall2023/ecse49646964/info'
+  Mediasite:
+    - 'https://mediasite.mms.rpi.edu/mediasite/Channel/computationalcreativity'
+    
 footer_content:
 
 # Collections for website data
