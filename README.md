@@ -1,4 +1,4 @@
----
+<!---
 layout: home
 title: Computational Creativity
 nav_exclude: true
@@ -6,7 +6,7 @@ permalink: /:path/
 seo:
   type: Course
   name: Computational Creativity at RPI
----
+-->
 
 # Computational Creativity
 ## ECSE 4964/6964, Rensselaer Polytechnic Institute, Fall 2023
