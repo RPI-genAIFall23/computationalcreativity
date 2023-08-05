@@ -4,10 +4,10 @@ role: Instructor
 pronouns: he/him
 email: rjradke@ecse.rpi.edu
 website: https://sites.ecse.rpi.edu/~rjradke
-photo: assets/staff-images/radke-pic-sm.jpg
+photo: _assets/staff-images/radke-pic-sm.jpg
 description: Professor, Dept. of ECSE, RPI 
 hometown: Milwaukee, WI
-askabout: <a href="https://www.instagram.com/rich.radke/">photography</a> :camera:, board games, logic puzzles, glassworking
+askabout: <a href="https://www.instagram.com/rich.radke/">photography</a>📷, board games, logic puzzles, glassworking
 foodemoji: 🍜
 food: Bespoki Bowl, Dinosaur BBQ
 ---
