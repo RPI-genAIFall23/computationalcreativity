@@ -9,9 +9,19 @@ seo:
 ---
 
 # Computational Creativity
+## ECSE 4964/6964, Rensselaer Polytechnic Institute, Fall 2023
 
-Test!
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+*Instructor:* Rich Radke
+
+*Time:* Mondays & Thursdays 4:00 pm - 5:20 pm
+
+*Location:* JEC 4104 
+
+*Course Description:* Creative applications of generative artificial intelligence have exploded in the past year, including image generation tools like Stable Diffusion and DALLE-2 and text generation tools like Chat-GPT3.  This course will survey the theoretical foundations of these tools, focusing on generative models and self-supervised learning, as well as explore the historical and ethical considerations involving the procedural generation of art.  Students will apply cutting-edge tools for generating creative content and critique each other’s work.
+
+*Prerequisites:* A first course in machine learning (ECSE-4840 or ECSE-4850 or CSCI-4100 or equivalent).  Having taken such a course implies an understanding of calculus, probability, and programming (e.g., the content in MATH-2010, ECSE-2500, and CSCI-1200).  Additionally, a creative/artistic mindset and curiosity/enthusiasm for making fun images and videos is required!
+
+*Staff Contact:* The best way to reach the staff is by posting to the class Discord, or mailing the professor directly at rjradke@ecse.rpi.edu.  
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
