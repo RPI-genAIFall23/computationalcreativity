@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Computational Creativity
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+tagline: Computational Creativity
+description: ECSE 4964/6964, Rensselaer Polytechnic Institute, Fall 2023
+author: Rich Radke
 baseurl: '/computationalcreativity' # the subpath of your site, e.g. /blog
 url: 'https://rpi-genaifall23.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -28,8 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Rich Radke:
-    - 'https://sites.ecse.rpi.edu/~rjradke/'
   Gradescope:
     - 'https://www.gradescope.com/courses/563405'
   Piazza:
