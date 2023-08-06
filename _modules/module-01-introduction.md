@@ -1,4 +1,4 @@
-![image](https://github.com/RPI-genAIFall23/computationalcreativity/assets/140016127/bd274704-5c5f-4d5d-a587-d1077e1d0aba)---
+!---
     title: Introduction and Background
     weekNumber: 1
     days:
