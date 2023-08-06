@@ -1,4 +1,4 @@
-![image](https://github.com/RPI-genAIFall23/computationalcreativity/assets/140016127/b09166dd-2d99-4176-8b62-cc37c48961bb)---
+---
     title: Introduction and Background
     weekNumber: 1
     days:
@@ -14,7 +14,7 @@
           "**LEC 2**{: .label .label-lecture } [Algorithms for making art, 1960-2010](resources/lectures/lec02/lec02.html) [✏️](http://www.ecse.rpi.edu/~rjradke/papers/radkecv.pdf)":
             "[🎥](https://www.youtube.com/watch?v=jdoLvrfkG3Y) "
     
-    weekNumber: 1
+    weekNumber: 2
     days:
     
       - date: 2023-9-5
