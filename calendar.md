@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendar
+title: 📅 Calendar
 description: Listing of course modules and topics.
 ---
 
