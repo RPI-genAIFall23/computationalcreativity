@@ -1,7 +1,10 @@
 ---
 layout: page
 title: 📅 Calendar
-description: Listing of course modules and topics.
+nav_exclude: false
+nav_order: 3
+description: >-
+    Course calendar.
 ---
 
 # Calendar
