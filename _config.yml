@@ -76,3 +76,18 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+# callouts
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important Announcement
+    color: red
+  note:
+    title: Note
+    color: yellow
+  success:
+    title: ""
+    color: green
