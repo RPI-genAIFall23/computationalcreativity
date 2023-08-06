@@ -17,7 +17,7 @@ nav_order: 1
 
 Below, you find class notes from each lecture by clicking the ✏️ emojis and watch Mediasite video recordings by clicking the 🎥 emojis.
 
-[Jump to the current week](#module-1-introduction){: .btn }
+[Jump to the current week](#module-01-introduction){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
