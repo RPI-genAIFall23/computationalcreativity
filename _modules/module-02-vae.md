@@ -1,6 +1,6 @@
 ---
     title: Variational auto-encoders
-    weekNumber: 3
+    weekNumber: 2
     days:
 
       - date: 2023-9-11
