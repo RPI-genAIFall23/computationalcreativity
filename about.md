@@ -2,32 +2,59 @@
 layout: page
 title: About
 description: >-
-    Course policies and information.
+    Course description.
 ---
 
-# About
-{:.no_toc}
+# Computational Creativity
+## ECSE 4964/6964, Rensselaer Polytechnic Institute, Fall 2023
 
-## Table of contents
-{: .no_toc .text-delta }
+**Instructor:** Rich Radke
 
-1. TOC
-{:toc}
+**Time:** Mondays & Thursdays 4:00 pm - 5:20 pm
 
----
+**Location:** JEC 4104 
 
-## About
+**Course Description:** Creative applications of generative artificial intelligence have exploded in the past year, including image generation tools like Stable Diffusion and DALLE-2 and text generation tools like Chat-GPT3.  This course will survey the theoretical foundations of these tools, focusing on generative models and self-supervised learning, as well as explore the historical and ethical considerations involving the procedural generation of art.  Students will apply cutting-edge tools for generating creative content and critique each other’s work.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+**Prerequisites:** A first course in machine learning (ECSE-4840 or ECSE-4850 or CSCI-4100 or equivalent).  Having taken such a course implies an understanding of calculus, probability, and programming (e.g., the content in MATH-2010, ECSE-2500, and CSCI-1200).  Additionally, a creative/artistic mindset and curiosity/enthusiasm for making fun images and videos is required!
 
-## Lecture
+**Textbook:** We will cover most of <a href="https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition">_Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play_</a>, 2nd Edition by David Foster, O'Reilly Media, June 2023, as well as many research papers that go beyond this text.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+**Topics:** The topics we'll discuss over the course of the semester include:
+- Introduction and historical overview
+- Algorithms for making art (1960-2010)
+- Variational auto-encoders (VAEs)
+- VQ-VAEs and image quality metrics
+- Generative adversarial networks (GANs)
+- Advanced GANs (e.g., ProGAN, StyleGAN, GANSpace)
+- Image-to-Image GANs (e.g., CycleGAN, pix2pix); GAN artists
+- Normalizing flow models 
+- Denoising diffusion models
+- Neural style transfer; Deepdream
+- Neural language models and word embeddings
+- Word2vec and attention
+- Large language models and their implications
+- CLIP and its applications
+- DALLE-2 and Stable Diffusion
+- Diffusion developments (inpainting, DreamBooth, ControlNet)
+- Text to 3D (Dreamfusion, Point-E)
+- Music generation (MuseGAN, Magenta, Jukebox, Riffusion, Meta)
+- Graphic design layout generation and other extensions 
+- Neural rendering fields (NeRF) 
 
-## Resources
+We will also feature several guest speakers from the intersection of art and technology.  We will also interleave discussions about the ethics of generative AI techniques throughout the technical material.
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+**Staff Contact:** The best way to reach the staff is by posting to the class Discord, or mailing the professor directly at rjradke@ecse.rpi.edu.  
 
-## Assignments
+<!---
+- [announcements](announcements.md),
+- a [course calendar](calendar.md),
+- a [staff](staff.md) page,
+- and a weekly [schedule](schedule.md).
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+
+- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
+- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
+- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+-->
