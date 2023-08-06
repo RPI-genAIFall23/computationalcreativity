@@ -2,7 +2,7 @@
 layout: page
 title: 📰 Policies
 nav_exclude: false
-nav_order: 5
+nav_order: 6
 description: >-
     Course policies.
    
