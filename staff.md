@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 🙋‍♂️ Staff
+nav_exclude: false
+nav_order: 4
 description: A listing of all the course staff members.
 ---
 
