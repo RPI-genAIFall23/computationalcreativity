@@ -21,6 +21,32 @@ seo:
 
 **Prerequisites:** A first course in machine learning (ECSE-4840 or ECSE-4850 or CSCI-4100 or equivalent).  Having taken such a course implies an understanding of calculus, probability, and programming (e.g., the content in MATH-2010, ECSE-2500, and CSCI-1200).  Additionally, a creative/artistic mindset and curiosity/enthusiasm for making fun images and videos is required!
 
+**Textbook:** We will cover most of <a href="https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition">_Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play_</a>, 2nd Edition by David Foster, O'Reilly Media, June 2023, as well as many research papers that go beyond this text.
+
+**Topics:** The topics we'll discuss over the course of the semester include:
+- Introduction and historical overview
+- Algorithms for making art (1960-2010)
+- Variational auto-encoders (VAEs)
+- VQ-VAEs and image quality metrics
+- Generative adversarial networks (GANs)
+- Advanced GANs (e.g., ProGAN, StyleGAN, GANSpace)
+- Image-to-Image GANs (e.g., CycleGAN, pix2pix); GAN artists
+- Normalizing flow models 
+- Denoising diffusion models
+- Neural style transfer; Deepdream
+- Neural language models and word embeddings
+- Word2vec and attention
+- Large language models and their implications
+- CLIP and its applications
+- DALLE-2 and Stable Diffusion
+- Diffusion developments (inpainting, DreamBooth, ControlNet)
+- Text to 3D (Dreamfusion, Point-E)
+- Music generation (MuseGAN, Magenta, Jukebox, Riffusion, Meta)
+- Graphic design layout generation and other extensions 
+- Neural rendering fields (NeRF) 
+
+We will also feature several guest speakers from the intersection of art and technology.  We will also interleave discussions about the ethics of generative AI techniques throughout the technical material.
+
 **Staff Contact:** The best way to reach the staff is by posting to the class Discord, or mailing the professor directly at rjradke@ecse.rpi.edu.  
 
 - [announcements](announcements.md),
