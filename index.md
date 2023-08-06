@@ -15,9 +15,9 @@ nav_order: 1
 {: .success } 
 > The first day of class is on Monday, August 28, at 4 PM in JEC 4104.  Materials on this site are in flux until then!
 
-Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis.
+Below, you find class notes from each lecture by clicking the ✏️ emojis and watch Mediasite video recordings by clicking the 🎥 emojis.
 
-[Jump to the current week](#week-9-prediction){: .btn }
+[Jump to the current week](#module-1-introduction){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
