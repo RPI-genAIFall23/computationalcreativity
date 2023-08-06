@@ -14,9 +14,7 @@
           "**LEC 2**{: .label .label-lecture } [Algorithms for making art, 1960-2010](resources/lectures/lec02/lec02.html) [✏️](http://www.ecse.rpi.edu/~rjradke/papers/radkecv.pdf)":
             "[🎥](https://www.youtube.com/watch?v=jdoLvrfkG3Y) "
     
-    weekNumber: 2
-    days:
-    
+   
       - date: 2023-9-5
         events:
           "**LEC 3**{: .label .label-lecture } [Probability and machine learning review](resources/lectures/lec02/lec02.html) [✏️](http://www.ecse.rpi.edu/~rjradke/papers/radkecv.pdf)":
